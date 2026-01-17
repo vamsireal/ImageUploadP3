@@ -77,3 +77,7 @@ This project showcases a real-world iOS onboarding experience, starting from a w
 * Accessibility support
 
 
+## **DEMO**
+
+![Simulator Screen Recording - iPhone 17 Pro - 2026-01-16 at 12 28 53](https://github.com/user-attachments/assets/5e86e158-e5cf-4949-8094-a318b83e2f05)
+
